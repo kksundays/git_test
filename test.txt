@@ -1,5 +1,6 @@
 aaaaaaaaaaaa
 test!
 main!!!
+conflict
 
 hogehoge
